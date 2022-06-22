@@ -1,2 +1,5 @@
 # Movie-App
-Movie show app which uses the Movie DB API
+-   list of movies
+-   movie info
+-   favorite movie
+-   overview of movie
